@@ -1,3 +1,9 @@
+/*CODIGO ANTIGO, OS ARQUIVOS INCORRETOR SÃO CurrentAccount.java e App.java, todos os outros fazem parte do mesmo pacote*/
+
+
+
+
+
 package ContaCorrente;
 
 import java.util.Scanner;
